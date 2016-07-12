@@ -1,2 +1,2 @@
-# GKPopScrollview
-GKPopScrollview
+# GKPopScrollView
+GKPopScrollView
